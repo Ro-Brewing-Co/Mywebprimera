@@ -1,0 +1,21 @@
+2024-10-07 18:45:37.711 [info] 
+
+
+
+
+2024-10-07 18:45:37.745 [info] Extension host agent started.
+2024-10-07 18:45:37.962 [info] [127.0.0.1][cde3bb0f][ManagementConnection] New connection established.
+2024-10-07 18:45:38.986 [info] [127.0.0.1][bb96869b][ExtensionHostConnection] New connection established.
+2024-10-07 18:45:38.998 [info] [127.0.0.1][bb96869b][ExtensionHostConnection] <22232> Launched Extension Host Process.
+2024-10-07 18:45:39.093 [info] [127.0.0.1][bb96869b][ExtensionHostConnection] <22232><stderr> Error reading NLS messages file /home/robrewingco/.vscode-server/data/clp/50ae99d4b90593add9f8279b44c24602.es/d78a74bcdfad14d5d3b1b782f87255d802b57511/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/robrewingco/.vscode-server/data/clp/50ae99d4b90593add9f8279b44c24602.es/d78a74bcdfad14d5d3b1b782f87255d802b57511/nls.messages.json'
+
+2024-10-07 18:45:48.775 [info] Getting Manifest... ms-python.vscode-pylance
+2024-10-07 18:45:49.306 [info] Installing extension: ms-python.vscode-pylance {"productVersion":{"version":"1.94.0","date":"2024-10-02T13:08:12.626Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/robrewingco/.vscode-server/extensions/extensions.json","external":"file:///home/robrewingco/.vscode-server/extensions/extensions.json","path":"/home/robrewingco/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-10-07 18:45:55.094 [info] Getting Manifest... ms-python.python
+2024-10-07 18:46:16.348 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 5355ms.
+2024-10-07 18:46:42.113 [info] Extracted extension to file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1: ms-python.vscode-pylance
+2024-10-07 18:46:42.129 [info] Renamed to /home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1
+2024-10-07 18:46:42.174 [info] Marked extension as uninstalled ms-python.vscode-pylance-2024.9.2
+2024-10-07 18:46:42.187 [info] Extension installed successfully: ms-python.vscode-pylance file:///home/robrewingco/.vscode-server/extensions/extensions.json
+2024-10-07 21:54:32.971 [info] [127.0.0.1][cde3bb0f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-07 21:54:33.498 [info] [127.0.0.1][bb96869b][ExtensionHostConnection] <22232> Extension Host Process exited with code: 0, signal: null.

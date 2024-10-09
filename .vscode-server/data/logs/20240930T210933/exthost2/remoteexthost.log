@@ -1,0 +1,15 @@
+2024-09-30 21:10:22.507 [info] Extension host with pid 896 started
+2024-09-30 21:10:22.525 [info] Lock '/home/robrewingco/.vscode-server/data/User/workspaceStorage/f3b8b635bb633eaaca31b30164a0cacf/vscode.lock': Lock acquired.
+2024-09-30 21:10:22.602 [info] Eager extensions activated
+2024-09-30 21:10:24.245 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-30 21:10:24.246 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-09-30 21:10:24.247 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-30 21:10:24.437 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-09-30 21:10:24.437 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-09-30 21:10:41.572 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-30 21:11:19.674 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-09-30 21:11:20.371 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-09-30 21:11:20.371 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-09-30 21:19:14.194 [info] Extension host terminating: received terminate message from renderer
+2024-09-30 21:19:14.195 [info] Lock '/home/robrewingco/.vscode-server/data/User/workspaceStorage/f3b8b635bb633eaaca31b30164a0cacf/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-09-30 21:19:14.313 [info] Extension host with pid 896 exiting with code 0

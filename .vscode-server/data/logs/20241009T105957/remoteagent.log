@@ -1,0 +1,30 @@
+2024-10-09 10:59:58.614 [info] 
+
+
+
+
+2024-10-09 10:59:58.738 [info] Extension host agent started.
+2024-10-09 10:59:59.344 [info] [127.0.0.1][70d83693][ManagementConnection] New connection established.
+2024-10-09 11:00:00.502 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2
+2024-10-09 11:00:00.809 [info] [127.0.0.1][00c3370c][ExtensionHostConnection] New connection established.
+2024-10-09 11:00:01.430 [info] [127.0.0.1][00c3370c][ExtensionHostConnection] <670> Launched Extension Host Process.
+2024-10-09 11:00:16.102 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2024-10-09 11:00:16.103 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2024-10-09 11:00:16.641 [info] Installing extension: ms-ceintl.vscode-language-pack-es {"productVersion":{"version":"1.94.0","date":"2024-10-02T13:08:12.626Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/robrewingco/.vscode-server/extensions/extensions.json","external":"file:///home/robrewingco/.vscode-server/extensions/extensions.json","path":"/home/robrewingco/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-10-09 11:00:16.673 [info] Extension is already requested to install ms-ceintl.vscode-language-pack-es file:///home/robrewingco/.vscode-server/extensions/extensions.json
+2024-10-09 11:00:24.600 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-es: Success. Executed: true. Duration: 5693ms.
+2024-10-09 11:00:25.318 [info] Extracted extension to file:///home/robrewingco/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.94.2024100909: ms-ceintl.vscode-language-pack-es
+2024-10-09 11:00:25.340 [info] Renamed to /home/robrewingco/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.94.2024100909
+2024-10-09 11:00:25.368 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-es-1.94.2024100209
+2024-10-09 11:00:25.393 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2024-10-09 11:00:25.524 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es file:///home/robrewingco/.vscode-server/extensions/extensions.json
+2024-10-09 11:00:27.723 [info] Downloaded extension to file:///home/robrewingco/.vscode-server/data/CachedExtensionVSIXs/eb7ee9ae-5aae-4ad4-a8e6-4bc4ee67f367
+2024-10-09 11:00:27.729 [info] Installing extension: ms-ceintl.vscode-language-pack-es {"productVersion":{"version":"1.94.0","date":"2024-10-02T13:08:12.626Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"donotVerifySignature":false,"donotIncludePackAndDependencies":true,"keepExisting":true,"installOnlyNewlyAddedFromExtensionPack":false,"profileLocation":{"$mid":1,"fsPath":"/home/robrewingco/.vscode-server/extensions/extensions.json","external":"file:///home/robrewingco/.vscode-server/extensions/extensions.json","path":"/home/robrewingco/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-10-09 11:00:27.735 [info] Installing the extension without checking dependencies and pack ms-ceintl.vscode-language-pack-es
+2024-10-09 11:00:27.767 [info] Deleted existing extension from disk ms-ceintl.vscode-language-pack-es /home/robrewingco/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.94.2024100909
+2024-10-09 11:00:28.195 [info] Extracted extension to file:///home/robrewingco/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.94.2024100909: ms-ceintl.vscode-language-pack-es
+2024-10-09 11:00:28.219 [info] Renamed to /home/robrewingco/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.94.2024100909
+2024-10-09 11:00:28.325 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2024-10-09 11:00:28.395 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es file:///home/robrewingco/.vscode-server/extensions/extensions.json
+2024-10-09 11:00:41.930 [info] [127.0.0.1][70d83693][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-09 11:00:42.275 [info] [127.0.0.1][00c3370c][ExtensionHostConnection] <670> Extension Host Process exited with code: 0, signal: null.

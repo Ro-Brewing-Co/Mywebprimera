@@ -1,0 +1,24 @@
+{
+        "liveServer.settings.donotVerifyTags": true,
+        "liveServer.settings.port": 0,
+        "liveServer.settings.multiRootWorkspaceName": "",
+        "liveServer.settings.fullReload ": true,
+        "liveServer.settings.useLocalIp ": true,
+        "liveServer.settings.donotShowInfoMsg": true,
+        "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+        "[python]": {
+                "editor.formatOnType": true
+        },
+        "workbench.editorAssociations": {
+                "*.pyc": "default"
+        },
+        "git.openRepositoryInParentFolders": "always",
+        "redhat.telemetry.enabled": true,
+        "editor.fontSize": 18,
+        "workbench.iconTheme": "material-icon-theme",
+        "emmet.includeLanguages": {
+                "html": "django-html"
+        },
+        "workbench.colorTheme": "Dracula Theme Soft",
+        "liveServer.settings.AdvanceCustomBrowserCmdLine": ""
+}

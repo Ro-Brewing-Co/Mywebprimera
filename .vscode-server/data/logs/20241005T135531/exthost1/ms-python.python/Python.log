@@ -1,0 +1,68 @@
+2024-10-05 14:10:48.255 [info] El experimento \"pythonRecommendTensorboardExt\" está activo
+2024-10-05 14:10:48.255 [info] El experimento \"pythonTerminalEnvVarActivation\" está activo
+2024-10-05 14:10:48.255 [info] El experimento \"pythonTestAdapter\" está activo
+2024-10-05 14:10:48.255 [warning] Dir "/home/robrewingco/.pixi/envs" is not watchable (directory does not exist)
+2024-10-05 14:10:48.255 [info] Default formatter is set to null for workspace /home/robrewingco
+2024-10-05 14:10:48.255 [info] Starting Environment refresh
+2024-10-05 14:10:48.255 [info] Searching for interpreters in posix paths locator
+2024-10-05 14:10:48.255 [info] Searching for pyenv environments
+2024-10-05 14:10:48.256 [info] Searching for conda environments
+2024-10-05 14:10:48.256 [info] Searching for global virtual environments
+2024-10-05 14:10:48.256 [info] Searching for custom virtual environments
+2024-10-05 14:10:48.256 [info] pyenv is not installed
+2024-10-05 14:10:48.256 [info] Finished searching for pyenv environments: 895 milliseconds
+2024-10-05 14:10:48.256 [info] Finished searching for custom virtual envs: 897 milliseconds
+2024-10-05 14:10:48.256 [info] > conda info --json
+2024-10-05 14:10:48.256 [info] > pixi --version
+2024-10-05 14:10:48.256 [info] > hatch env show --json
+2024-10-05 14:10:48.256 [info] cwd: .
+2024-10-05 14:10:48.256 [info] Finished searching for global virtual envs: 1364 milliseconds
+2024-10-05 14:10:48.256 [info] Found: /bin/python3 --> /bin/python3.10
+2024-10-05 14:10:48.258 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-10-05 14:10:48.311 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-10-05 14:10:48.311 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-10-05 14:10:48.854 [info] > C:\Users\user\AppData\Local\Programs\Python\Python310\python.exe -I ./.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/python_files/interpreterInfo.py
+2024-10-05 14:10:49.044 [error] [Error: Command failed: C:\Users\user\AppData\Local\Programs\Python\Python310\python.exe -I /home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/python_files/get_output_via_markers.py /home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/python_files/interpreterInfo.py
+/bin/sh: 1: C:UsersuserAppDataLocalProgramsPythonPython310python.exe: not found
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:531:35)
+	at maybeClose (node:internal/child_process:1105:16)
+	at Socket.<anonymous> (node:internal/child_process:457:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:339:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python310\\python.exe -I /home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/python_files/get_output_via_markers.py /home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/python_files/interpreterInfo.py'
+}
+2024-10-05 14:10:49.175 [info] Finished searching for interpreters in posix paths locator: 2506 milliseconds
+2024-10-05 14:10:49.175 [info] > /bin/python3 -I ./.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/python_files/interpreterInfo.py
+2024-10-05 14:10:49.247 [info] > /usr/bin/python3 -I ./.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/python_files/interpreterInfo.py
+2024-10-05 14:10:49.247 [info] Environments refresh paths discovered (event): 2594 milliseconds
+2024-10-05 14:10:49.247 [info] Environments refresh paths discovered: 2594 milliseconds
+2024-10-05 14:10:51.051 [info] > C:\Users\user\AppData\Local\Programs\Python\Python310\python.exe -I ./.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/python_files/interpreterInfo.py
+2024-10-05 14:10:51.167 [error] [Error: Command failed: C:\Users\user\AppData\Local\Programs\Python\Python310\python.exe -I /home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/python_files/get_output_via_markers.py /home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/python_files/interpreterInfo.py
+/bin/sh: 1: C:UsersuserAppDataLocalProgramsPythonPython310python.exe: not found
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:531:35)
+	at maybeClose (node:internal/child_process:1105:16)
+	at Socket.<anonymous> (node:internal/child_process:457:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:339:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python310\\python.exe -I /home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/python_files/get_output_via_markers.py /home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/python_files/interpreterInfo.py'
+}
+2024-10-05 14:10:51.167 [info] Environments refresh finished (event): 4514 milliseconds
+2024-10-05 14:10:51.174 [info] Environment refresh took 4523 milliseconds
+2024-10-05 14:10:51.184 [info] > pyenv which python
+2024-10-05 14:10:51.184 [info] cwd: .
+2024-10-05 14:10:51.286 [info] Ruta de acceso del intérprete de Python: /bin/python3
+2024-10-05 14:10:52.069 [info] Iniciando el servidor de lenguaje Pylance.

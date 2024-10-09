@@ -1,0 +1,19 @@
+2024-10-05 14:10:51.859 [info] (Client) Pylance async client (2024.9.2) started with python extension (2024.16.0)
+2024-10-05 14:10:52.035 [info] [Info  - 2:10:52 PM] (9800) Server root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-05 14:10:52.036 [info] [Info  - 2:10:52 PM] (9800) Pylance language server 2024.9.2 (pyright version 1.1.378, commit ce64adc1) starting
+2024-10-05 14:10:52.036 [info] [Info  - 2:10:52 PM] (9800) Starting service instance "robrewingco"
+2024-10-05 14:10:52.122 [info] [Info  - 2:10:52 PM] (9800) Setting environmentName for service "robrewingco": "3.10.12 (global)"
+2024-10-05 14:10:52.123 [info] [Info  - 2:10:52 PM] (9800) Setting pythonPath for service "robrewingco": "/bin/python3"
+2024-10-05 14:10:52.124 [info] [Info  - 2:10:52 PM] (9800) No include entries specified; assuming /home/robrewingco
+2024-10-05 14:10:52.125 [info] [Info  - 2:10:52 PM] (9800) Auto-excluding **/node_modules
+2024-10-05 14:10:52.126 [info] [Info  - 2:10:52 PM] (9800) Auto-excluding **/__pycache__
+2024-10-05 14:10:52.126 [info] [Info  - 2:10:52 PM] (9800) Auto-excluding **/.*
+2024-10-05 14:10:52.166 [info] [Info  - 2:10:52 PM] (9800) Assuming Python version 3.10.12.final.0
+2024-10-05 14:10:52.414 [info] [Info  - 2:10:52 PM] (9800) Found 2 source files
+2024-10-05 14:10:53.243 [info] [Info  - 2:10:53 PM] (9800) Background analysis(1) root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-05 14:10:53.257 [info] [Info  - 2:10:53 PM] (9800) Background analysis(1) started
+2024-10-05 14:10:53.709 [info] [Info  - 2:10:53 PM] (9800) Indexer background runner(2) root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist (index)
+2024-10-05 14:10:53.710 [info] [Info  - 2:10:53 PM] (9800) Indexing(2) started
+2024-10-05 14:10:54.876 [info] [Info  - 2:10:54 PM] (9800) scanned(2) 39 files over 1 exec env
+2024-10-05 14:10:55.197 [info] [Info  - 2:10:55 PM] (9800) indexed(2) 17 files over 1 exec env
+2024-10-05 14:10:55.240 [info] [Info  - 2:10:55 PM] (9800) Indexing finished(2).

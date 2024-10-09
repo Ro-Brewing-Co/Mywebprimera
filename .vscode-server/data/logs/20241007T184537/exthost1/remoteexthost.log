@@ -1,0 +1,141 @@
+2024-10-07 18:45:41.467 [info] Extension host with pid 22232 started
+2024-10-07 18:45:41.513 [info] Lock '/home/robrewingco/.vscode-server/data/User/workspaceStorage/f3b8b635bb633eaaca31b30164a0cacf/vscode.lock': Lock acquired.
+2024-10-07 18:45:41.583 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-10-07 18:45:41.586 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-07 18:45:41.586 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-10-07 18:45:44.230 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-10-07 18:45:44.280 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-07 18:45:44.281 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-07 18:45:44.282 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-07 18:45:44.818 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-10-07 18:45:44.820 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-10-07 18:45:47.816 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-10-07 18:45:47.818 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-07 18:45:49.341 [info] Eager extensions activated
+2024-10-07 18:45:49.341 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-07 18:45:49.342 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-07 18:45:49.343 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-10-07 18:46:03.869 [warning] DiagnosticCollection with name 'settings' does already exist.
+2024-10-07 18:46:14.533 [error] Error: LanguageStatusItem with id 'python.analysis.typeCheckingMode' ALREADY exists
+	at sU.createLanguageStatusItem (file:///home/robrewingco/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:137:171103)
+	at Object.createLanguageStatusItem (file:///home/robrewingco/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:44171)
+	at _0x479bca.createStatusItem (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:267466)
+	at _0x479bca.updateStatusItem (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281115)
+	at p (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2024-10-07 18:46:15.292 [error] Error: Client is not running
+	at P.sendRequest (/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/out/client/extension.js:2:2102916)
+	at Object._0x50f843 [as sendRequest] (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:144733)
+	at _0x2c06b0.getConfigInfo (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:270094)
+	at _0x479bca.updateStatusItem (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281182)
+	at p (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2024-10-07 18:46:34.490 [warning] DiagnosticCollection with name 'settings' does already exist.
+2024-10-07 18:46:40.903 [error] Error: Client is not running
+	at P.sendRequest (/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/out/client/extension.js:2:2102916)
+	at Object._0x50f843 [as sendRequest] (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:144733)
+	at _0x2c06b0.getConfigInfo (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:270094)
+	at _0x1883a4._updateDiagnosticsInternal (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:277071)
+	at p (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2024-10-07 18:46:40.906 [error] Error: Client is not running
+	at P.sendRequest (/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/out/client/extension.js:2:2102916)
+	at Object._0x50f843 [as sendRequest] (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:144733)
+	at _0x2c06b0.getConfigInfo (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:270094)
+	at _0x1883a4._updateDiagnosticsInternal (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:277071)
+	at p (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2024-10-07 18:46:40.908 [error] Error: Client is not running
+	at P.sendRequest (/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/out/client/extension.js:2:2102916)
+	at Object._0x50f843 [as sendRequest] (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:144733)
+	at _0x2c06b0.getConfigInfo (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:270094)
+	at _0x1883a4._updateDiagnosticsInternal (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:277071)
+	at p (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2024-10-07 18:46:45.935 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-10-07 18:46:53.828 [error] Error: LanguageStatusItem with id 'python.analysis.typeCheckingMode' ALREADY exists
+	at sU.createLanguageStatusItem (file:///home/robrewingco/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:137:171103)
+	at Object.createLanguageStatusItem (file:///home/robrewingco/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:44171)
+	at _0x479bca.createStatusItem (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:267466)
+	at _0x479bca.updateStatusItem (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281115)
+	at p (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2024-10-07 18:46:53.829 [error] Error: LanguageStatusItem with id 'python.analysis.typeCheckingMode' ALREADY exists
+	at sU.createLanguageStatusItem (file:///home/robrewingco/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:137:171103)
+	at Object.createLanguageStatusItem (file:///home/robrewingco/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:44171)
+	at _0x479bca.createStatusItem (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:267466)
+	at _0x479bca.updateStatusItem (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281115)
+	at p (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2024-10-07 18:46:54.546 [error] Error: Client is not running
+	at P.sendRequest (/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/out/client/extension.js:2:2102916)
+	at Object._0x50f843 [as sendRequest] (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:144733)
+	at _0x2c06b0.getConfigInfo (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:270094)
+	at _0x1883a4._updateDiagnosticsInternal (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:277071)
+	at p (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2024-10-07 18:46:54.548 [error] Error: Client is not running
+	at P.sendRequest (/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/out/client/extension.js:2:2102916)
+	at Object._0x50f843 [as sendRequest] (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:144733)
+	at _0x2c06b0.getConfigInfo (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:270094)
+	at _0x1883a4._updateDiagnosticsInternal (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:277071)
+	at p (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2024-10-07 18:46:54.549 [error] Error: Client is not running
+	at P.sendRequest (/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/out/client/extension.js:2:2102916)
+	at Object._0x50f843 [as sendRequest] (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:144733)
+	at _0x2c06b0.getConfigInfo (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:270094)
+	at _0x1883a4._updateDiagnosticsInternal (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:277071)
+	at p (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2024-10-07 18:46:54.834 [error] Error: Client is not running
+	at P.sendRequest (/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/out/client/extension.js:2:2102916)
+	at Object._0x50f843 [as sendRequest] (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:144733)
+	at _0x2c06b0.getConfigInfo (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:270094)
+	at _0x479bca.updateStatusItem (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281182)
+	at p (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2024-10-07 21:54:32.932 [info] Extension host terminating: received terminate message from renderer
+2024-10-07 21:54:32.937 [info] Lock '/home/robrewingco/.vscode-server/data/User/workspaceStorage/f3b8b635bb633eaaca31b30164a0cacf/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-10-07 21:54:33.377 [error] Error: Channel has been closed
+	at s (file:///home/robrewingco/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:120:2345)
+	at Object.appendLine (file:///home/robrewingco/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:120:2463)
+	at w.logOutputMessage (/home/robrewingco/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/html-language-features/client/dist/node/htmlClientMain.js:1:255764)
+	at w.info (/home/robrewingco/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/html-language-features/client/dist/node/htmlClientMain.js:1:255497)
+	at ChildProcess.<anonymous> (/home/robrewingco/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/html-language-features/client/dist/node/htmlClientMain.js:1:444159)
+	at ChildProcess.emit (node:events:519:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-10-07 21:54:33.411 [info] Extension host with pid 22232 exiting with code 0

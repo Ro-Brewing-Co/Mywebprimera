@@ -1,0 +1,50 @@
+2024-10-05 13:55:34.092 [info] Extension host with pid 3067 started
+2024-10-05 13:55:34.092 [error] Error: EEXIST: file already exists, open '/home/robrewingco/.vscode-server/data/User/workspaceStorage/f3b8b635bb633eaaca31b30164a0cacf/vscode.lock'
+2024-10-05 13:55:34.118 [info] Lock '/home/robrewingco/.vscode-server/data/User/workspaceStorage/f3b8b635bb633eaaca31b30164a0cacf/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-10-05 13:55:34.131 [info] Lock '/home/robrewingco/.vscode-server/data/User/workspaceStorage/f3b8b635bb633eaaca31b30164a0cacf/vscode.lock': The pid 2631 appears to be gone.
+2024-10-05 13:55:34.131 [info] Lock '/home/robrewingco/.vscode-server/data/User/workspaceStorage/f3b8b635bb633eaaca31b30164a0cacf/vscode.lock': Deleting a stale lock.
+2024-10-05 13:55:34.151 [info] Lock '/home/robrewingco/.vscode-server/data/User/workspaceStorage/f3b8b635bb633eaaca31b30164a0cacf/vscode.lock': Lock acquired.
+2024-10-05 13:55:34.653 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-05 13:55:34.657 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-10-05 13:55:35.667 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-10-05 13:55:35.793 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-10-05 13:55:35.794 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-05 13:55:35.971 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-05 13:55:35.972 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-05 13:55:35.972 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-05 13:55:37.010 [info] Eager extensions activated
+2024-10-05 13:55:37.011 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-05 13:55:37.013 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-05 13:55:37.015 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-10-05 13:55:42.762 [error] Error: spawn google-chrome ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-10-05 13:55:43.237 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-10-05 13:56:14.264 [error] Error: spawn google-chrome ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-10-05 13:56:28.589 [error] Error: spawn google-chrome ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-10-05 13:58:13.206 [error] Error: spawn google-chrome ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-10-05 14:00:49.143 [error] Error: spawn google-chrome ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-10-05 14:05:01.074 [warning] vscode.json-language-features - Code actions of kind 'quickfix' requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-10-05 14:06:04.716 [error] Error: spawn google-chrome ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-10-05 14:10:45.725 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-10-05 14:10:46.712 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-10-05 14:10:46.713 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-10-05 14:10:56.179 [info] Extension host terminating: received terminate message from renderer
+2024-10-05 14:10:56.181 [info] Lock '/home/robrewingco/.vscode-server/data/User/workspaceStorage/f3b8b635bb633eaaca31b30164a0cacf/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-10-05 14:10:56.430 [info] Extension host with pid 3067 exiting with code 0

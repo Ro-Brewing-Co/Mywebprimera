@@ -1,0 +1,60 @@
+2024-10-05 13:50:56.379 [info] 
+
+
+
+
+2024-10-05 13:50:56.405 [info] Extension host agent started.
+2024-10-05 13:50:56.696 [info] [127.0.0.1][d4b59fee][ManagementConnection] New connection established.
+2024-10-05 13:50:56.881 [info] [127.0.0.1][ac349767][ExtensionHostConnection] New connection established.
+2024-10-05 13:50:57.086 [info] [127.0.0.1][ac349767][ExtensionHostConnection] <678> Launched Extension Host Process.
+2024-10-05 13:50:57.178 [info] [127.0.0.1][ac349767][ExtensionHostConnection] <678><stderr> Error reading NLS messages file /home/robrewingco/.vscode-server/data/clp/eaa2fea9596bb553b799b0a62c988a50.es/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/robrewingco/.vscode-server/data/clp/eaa2fea9596bb553b799b0a62c988a50.es/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/nls.messages.json'
+
+2024-10-05 13:51:39.818 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2024-10-05 13:51:39.819 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2024-10-05 13:51:39.819 [info] Getting Manifest... ms-python.python
+2024-10-05 13:51:40.209 [info] Installing extension: ms-ceintl.vscode-language-pack-es {"productVersion":{"version":"1.94.0","date":"2024-10-02T13:08:43.940Z"},"pinned":false,"isApplicationScoped":true,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/robrewingco/.vscode-server/extensions/extensions.json","external":"file:///home/robrewingco/.vscode-server/extensions/extensions.json","path":"/home/robrewingco/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-10-05 13:51:40.230 [info] Extension is already requested to install ms-ceintl.vscode-language-pack-es file:///home/robrewingco/.vscode-server/extensions/extensions.json
+2024-10-05 13:51:40.313 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.94.0","date":"2024-10-02T13:08:43.940Z"},"pinned":false,"isApplicationScoped":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/robrewingco/.vscode-server/extensions/extensions.json","external":"file:///home/robrewingco/.vscode-server/extensions/extensions.json","path":"/home/robrewingco/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-10-05 13:51:46.745 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-es: Success. Executed: true. Duration: 2423ms.
+2024-10-05 13:51:47.304 [info] Extracted extension to file:///home/robrewingco/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.94.2024100209: ms-ceintl.vscode-language-pack-es
+2024-10-05 13:51:47.324 [info] Renamed to /home/robrewingco/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.94.2024100209
+2024-10-05 13:51:47.371 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-es-1.93.2024091109
+2024-10-05 13:51:47.410 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2024-10-05 13:51:47.544 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es file:///home/robrewingco/.vscode-server/extensions/extensions.json
+2024-10-05 13:51:48.993 [info] Downloaded extension to file:///home/robrewingco/.vscode-server/data/CachedExtensionVSIXs/7cccda48-cac5-4918-9d8c-77f492167ba8
+2024-10-05 13:51:49.000 [info] Installing extension: ms-ceintl.vscode-language-pack-es {"productVersion":{"version":"1.94.0","date":"2024-10-02T13:08:43.940Z"},"pinned":false,"isApplicationScoped":true,"donotIncludePackAndDependencies":true,"keepExisting":true,"installOnlyNewlyAddedFromExtensionPack":false,"profileLocation":{"$mid":1,"fsPath":"/home/robrewingco/.vscode-server/extensions/extensions.json","external":"file:///home/robrewingco/.vscode-server/extensions/extensions.json","path":"/home/robrewingco/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-10-05 13:51:49.004 [info] Installing the extension without checking dependencies and pack ms-ceintl.vscode-language-pack-es
+2024-10-05 13:51:49.052 [info] Removed the extension from uninstalled list: ms-ceintl.vscode-language-pack-es
+2024-10-05 13:51:49.095 [info] Deleted removeExisting extension from disk ms-ceintl.vscode-language-pack-es /home/robrewingco/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.93.2024091109
+2024-10-05 13:51:49.663 [info] Extracted extension to file:///home/robrewingco/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.93.2024091109: ms-ceintl.vscode-language-pack-es
+2024-10-05 13:51:49.693 [info] Renamed to /home/robrewingco/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.93.2024091109
+2024-10-05 13:51:49.735 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-es-1.94.2024100209
+2024-10-05 13:51:49.758 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2024-10-05 13:51:49.943 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es file:///home/robrewingco/.vscode-server/extensions/extensions.json
+2024-10-05 13:51:51.813 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 3955ms.
+2024-10-05 13:51:58.712 [info] Extracted extension to file:///home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64: ms-python.python
+2024-10-05 13:51:58.744 [info] Renamed to /home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64
+2024-10-05 13:51:58.753 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:51:58.782 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:51:58.787 [error] Error while installing the extension ms-python.python Cannot read the extension from /home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64 file:///home/robrewingco/.vscode-server/extensions/extensions.json
+2024-10-05 13:53:01.720 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2024-10-05 13:53:01.958 [info] Installing extension: ms-ceintl.vscode-language-pack-es {"productVersion":{"version":"1.94.0","date":"2024-10-02T13:08:43.940Z"},"pinned":false,"isApplicationScoped":true,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/robrewingco/.vscode-server/extensions/extensions.json","external":"file:///home/robrewingco/.vscode-server/extensions/extensions.json","path":"/home/robrewingco/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-10-05 13:53:02.122 [info] Removed the extension from uninstalled list: ms-ceintl.vscode-language-pack-es
+2024-10-05 13:53:02.143 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:53:02.185 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-es-1.93.2024091109
+2024-10-05 13:53:02.195 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:53:02.199 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2024-10-05 13:53:02.254 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:53:02.274 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es file:///home/robrewingco/.vscode-server/extensions/extensions.json
+2024-10-05 13:53:20.006 [info] Getting Manifest... ritwickdey.liveserver
+2024-10-05 13:53:20.367 [info] Installing extension: ritwickdey.liveserver {"installPreReleaseVersion":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/robrewingco/.vscode-server/extensions/extensions.json","external":"file:///home/robrewingco/.vscode-server/extensions/extensions.json","path":"/home/robrewingco/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"}}
+2024-10-05 13:53:20.403 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:53:20.440 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:53:20.463 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:53:24.010 [info] Extension signature verification result for ritwickdey.liveserver: Success. Executed: true. Duration: 1738ms.
+2024-10-05 13:53:32.358 [info] Extracted extension to file:///home/robrewingco/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2024-10-05 13:53:32.369 [info] Renamed to /home/robrewingco/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2024-10-05 13:53:32.418 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:53:32.422 [info] Extension installed successfully: ritwickdey.liveserver file:///home/robrewingco/.vscode-server/extensions/extensions.json
+2024-10-05 13:54:43.448 [info] [127.0.0.1][d4b59fee][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-05 13:54:43.705 [info] [127.0.0.1][ac349767][ExtensionHostConnection] <678> Extension Host Process exited with code: 0, signal: null.

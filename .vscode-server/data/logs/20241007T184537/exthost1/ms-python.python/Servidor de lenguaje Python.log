@@ -1,0 +1,58 @@
+2024-10-07 18:45:52.034 [info] (Client) Pylance async client (2024.9.2) started with python extension (2024.16.0)
+2024-10-07 18:45:56.438 [info] [Info  - 6:45:56 PM] (22572) Server root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-07 18:45:56.468 [info] [Info  - 6:45:56 PM] (22572) Pylance language server 2024.9.2 (pyright version 1.1.378, commit ce64adc1) starting
+2024-10-07 18:45:56.480 [info] [Info  - 6:45:56 PM] (22572) Starting service instance "robrewingco"
+2024-10-07 18:45:57.270 [info] [Info  - 6:45:57 PM] (22572) Setting environmentName for service "robrewingco": "3.10.12 (global)"
+2024-10-07 18:45:57.272 [info] [Info  - 6:45:57 PM] (22572) Setting pythonPath for service "robrewingco": "/bin/python3"
+2024-10-07 18:45:57.272 [info] [Info  - 6:45:57 PM] (22572) No include entries specified; assuming /home/robrewingco
+2024-10-07 18:45:57.274 [info] [Info  - 6:45:57 PM] (22572) Auto-excluding **/node_modules
+2024-10-07 18:45:57.275 [info] [Info  - 6:45:57 PM] (22572) Auto-excluding **/__pycache__
+2024-10-07 18:45:57.276 [info] [Info  - 6:45:57 PM] (22572) Auto-excluding **/.*
+2024-10-07 18:45:57.479 [info] [Info  - 6:45:57 PM] (22572) Assuming Python version 3.10.12.final.0
+2024-10-07 18:45:57.761 [info] [Info  - 6:45:57 PM] (22572) Found 2 source files
+2024-10-07 18:45:58.469 [info] [Info  - 6:45:58 PM] (22572) Background analysis(1) root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-07 18:45:58.480 [info] [Info  - 6:45:58 PM] (22572) Background analysis(1) started
+2024-10-07 18:46:00.980 [info] [Info  - 6:46:00 PM] (22572) Indexer background runner(2) root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist (index)
+2024-10-07 18:46:00.982 [info] [Info  - 6:46:00 PM] (22572) Indexing(2) started
+2024-10-07 18:46:04.017 [info] [Info  - 6:46:04 PM] Server process exited successfully
+2024-10-07 18:46:04.478 [info] (Client) Pylance async client (2024.9.2) started with python extension (2024.16.0)
+2024-10-07 18:46:06.684 [info] [Info  - 6:46:06 PM] (22643) Server root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-07 18:46:06.690 [info] [Info  - 6:46:06 PM] (22643) Pylance language server 2024.9.2 (pyright version 1.1.378, commit ce64adc1) starting
+2024-10-07 18:46:06.752 [info] [Info  - 6:46:06 PM] (22643) Starting service instance "robrewingco"
+2024-10-07 18:46:06.974 [info] [Info  - 6:46:06 PM] (22643) Setting environmentName for service "robrewingco": "3.10.12 (global)"
+2024-10-07 18:46:06.975 [info] [Info  - 6:46:06 PM] (22643) Setting pythonPath for service "robrewingco": "/bin/python3"
+2024-10-07 18:46:06.975 [info] [Info  - 6:46:06 PM] (22643) No include entries specified; assuming /home/robrewingco
+2024-10-07 18:46:06.975 [info] [Info  - 6:46:06 PM] (22643) Auto-excluding **/node_modules
+2024-10-07 18:46:06.976 [info] [Info  - 6:46:06 PM] (22643) Auto-excluding **/__pycache__
+2024-10-07 18:46:06.980 [info] [Info  - 6:46:06 PM] (22643) Auto-excluding **/.*
+2024-10-07 18:46:07.289 [info] [Info  - 6:46:07 PM] (22643) Assuming Python version 3.10.12.final.0
+2024-10-07 18:46:07.719 [info] [Info  - 6:46:07 PM] (22643) Found 2 source files
+2024-10-07 18:46:09.014 [info] [Info  - 6:46:09 PM] (22643) Background analysis(1) root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-07 18:46:09.022 [info] [Info  - 6:46:09 PM] (22643) Background analysis(1) started
+2024-10-07 18:46:10.321 [info] [Info  - 6:46:10 PM] (22643) Indexer background runner(2) root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist (index)
+2024-10-07 18:46:10.322 [info] [Info  - 6:46:10 PM] (22643) Indexing(2) started
+2024-10-07 18:46:12.008 [info] [Info  - 6:46:12 PM] (22643) [BG(1)] Long operation: analyzing: file:///home/robrewingco/batalla_naval.py (2723ms)
+2024-10-07 18:46:10.118 [info] [Info  - 6:46:10 PM] (22643) scanned(2) 73 files over 1 exec env
+2024-10-07 18:46:12.922 [info] [Info  - 6:46:12 PM] (22643) [IDX(2)] Long operation: index packages file:///home/robrewingco (2088ms)
+2024-10-07 18:46:12.923 [info] [Info  - 6:46:12 PM] (22643) indexed(2) 42 files over 1 exec env
+2024-10-07 18:46:13.010 [info] [Info  - 6:46:13 PM] (22643) Indexing finished(2).
+2024-10-07 18:46:34.512 [info] [Info  - 6:46:34 PM] Server process exited successfully
+2024-10-07 18:46:35.513 [info] (Client) Pylance async client (2024.9.2) started with python extension (2024.16.0)
+2024-10-07 18:46:37.046 [info] [Info  - 6:46:37 PM] (22717) Server root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-07 18:46:37.049 [info] [Info  - 6:46:37 PM] (22717) Pylance language server 2024.9.2 (pyright version 1.1.378, commit ce64adc1) starting
+2024-10-07 18:46:37.070 [info] [Info  - 6:46:37 PM] (22717) Starting service instance "robrewingco"
+2024-10-07 18:46:37.170 [info] [Info  - 6:46:37 PM] (22717) Setting environmentName for service "robrewingco": "3.10.12 (global)"
+2024-10-07 18:46:37.171 [info] [Info  - 6:46:37 PM] (22717) Setting pythonPath for service "robrewingco": "/bin/python3"
+2024-10-07 18:46:37.172 [info] [Info  - 6:46:37 PM] (22717) No include entries specified; assuming /home/robrewingco
+2024-10-07 18:46:37.180 [info] [Info  - 6:46:37 PM] (22717) Auto-excluding **/node_modules
+2024-10-07 18:46:37.181 [info] [Info  - 6:46:37 PM] (22717) Auto-excluding **/__pycache__
+2024-10-07 18:46:37.182 [info] [Info  - 6:46:37 PM] (22717) Auto-excluding **/.*
+2024-10-07 18:46:37.279 [info] [Info  - 6:46:37 PM] (22717) Assuming Python version 3.10.12.final.0
+2024-10-07 18:46:37.564 [info] [Info  - 6:46:37 PM] (22717) Found 2 source files
+2024-10-07 18:46:39.291 [info] [Info  - 6:46:39 PM] (22717) Background analysis(1) root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-07 18:46:39.307 [info] [Info  - 6:46:39 PM] (22717) Background analysis(1) started
+2024-10-07 18:46:39.911 [info] [Info  - 6:46:39 PM] (22717) Indexer background runner(2) root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist (index)
+2024-10-07 18:46:39.911 [info] [Info  - 6:46:39 PM] (22717) Indexing(2) started
+2024-10-07 18:46:40.095 [info] [Info  - 6:46:40 PM] (22717) scanned(2) 73 files over 1 exec env
+2024-10-07 18:46:40.771 [info] [Info  - 6:46:40 PM] (22717) indexed(2) 42 files over 1 exec env
+2024-10-07 18:46:40.851 [info] [Info  - 6:46:40 PM] (22717) Indexing finished(2).

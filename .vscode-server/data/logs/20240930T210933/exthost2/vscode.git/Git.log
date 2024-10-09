@@ -1,0 +1,37 @@
+2024-09-30 21:10:24.871 [info] [main] Nivel de registro: Info
+2024-09-30 21:10:24.871 [info] [main] Validando git encontrado en: "git"
+2024-09-30 21:10:24.871 [info] [main] Usando git "2.34.1" de "git"
+2024-09-30 21:10:24.871 [info] [Model][doInitialScan] Initial repository scan started
+2024-09-30 21:10:24.871 [info] > git rev-parse --show-toplevel [11ms]
+2024-09-30 21:10:24.871 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-30 21:10:24.875 [info] > git rev-parse --show-toplevel [1ms]
+2024-09-30 21:10:24.876 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-30 21:10:24.881 [info] > git rev-parse --show-toplevel [2ms]
+2024-09-30 21:10:24.881 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-30 21:10:24.886 [info] > git rev-parse --show-toplevel [2ms]
+2024-09-30 21:10:24.894 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-30 21:10:24.900 [info] > git rev-parse --show-toplevel [2ms]
+2024-09-30 21:10:24.900 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-30 21:10:24.912 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-09-30 21:10:41.579 [info] > git rev-parse --show-toplevel [1ms]
+2024-09-30 21:10:41.580 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-30 21:10:56.963 [info] > git rev-parse --show-toplevel [2ms]
+2024-09-30 21:10:56.963 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-30 21:10:58.642 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/robrewingco/.vscode-server/extensions/.5fa2c484-c16c-45c0-b2a9-c87437810b56/bundled/libs/debugpy/_vendored/pydevd/_pydevd_frame_eval/". Error:Error: ENOENT: no such file or directory, realpath '/home/robrewingco/.vscode-server/extensions/.5fa2c484-c16c-45c0-b2a9-c87437810b56/bundled/libs/debugpy/_vendored/pydevd/_pydevd_frame_eval/'
+2024-09-30 21:10:59.157 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/robrewingco/.vscode-server/extensions/.5fa2c484-c16c-45c0-b2a9-c87437810b56/bundled/libs/debugpy/_vendored/pydevd/pydevd_attach_to_process/linux_and_mac/". Error:Error: ENOENT: no such file or directory, realpath '/home/robrewingco/.vscode-server/extensions/.5fa2c484-c16c-45c0-b2a9-c87437810b56/bundled/libs/debugpy/_vendored/pydevd/pydevd_attach_to_process/linux_and_mac/'
+2024-09-30 21:11:19.339 [info] > git rev-parse --show-toplevel [10ms]
+2024-09-30 21:11:19.340 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-30 21:11:19.627 [info] > git rev-parse --show-toplevel [4ms]
+2024-09-30 21:11:19.627 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-30 21:13:01.640 [info] > git rev-parse --show-toplevel [4ms]
+2024-09-30 21:13:01.641 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-30 21:13:05.267 [info] > git rev-parse --show-toplevel [3ms]
+2024-09-30 21:13:05.267 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-30 21:13:26.562 [info] > git rev-parse --show-toplevel [3ms]
+2024-09-30 21:13:26.563 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-30 21:15:05.482 [info] > git rev-parse --show-toplevel [2ms]
+2024-09-30 21:15:05.482 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-30 21:15:33.406 [info] > git rev-parse --show-toplevel [2ms]
+2024-09-30 21:15:33.406 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-30 21:15:47.184 [info] > git rev-parse --show-toplevel [3ms]
+2024-09-30 21:15:47.184 [info] fatal: not a git repository (or any of the parent directories): .git

@@ -1,0 +1,35 @@
+2024-10-09 11:01:40.921 [info] [main] Nivel de registro: Info
+2024-10-09 11:01:40.921 [info] [main] Validando git encontrado en: "git"
+2024-10-09 11:01:40.921 [info] [main] Usando git "2.34.1" de "git"
+2024-10-09 11:01:40.921 [info] [Model][doInitialScan] Initial repository scan started
+2024-10-09 11:01:40.921 [info] > git rev-parse --show-toplevel [47ms]
+2024-10-09 11:01:40.921 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 11:01:40.921 [info] > git rev-parse --show-toplevel [209ms]
+2024-10-09 11:01:40.921 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 11:01:40.983 [info] > git rev-parse --show-toplevel [16ms]
+2024-10-09 11:01:40.983 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 11:01:40.997 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-09 11:01:40.998 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 11:01:41.012 [info] > git rev-parse --show-toplevel [7ms]
+2024-10-09 11:01:41.012 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 11:01:41.022 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-09 11:01:41.022 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 11:01:41.038 [info] > git rev-parse --show-toplevel [10ms]
+2024-10-09 11:01:41.038 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 11:01:41.061 [info] > git rev-parse --show-toplevel [15ms]
+2024-10-09 11:01:41.061 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 11:01:41.067 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-10-09 11:12:51.360 [info] > git rev-parse --show-toplevel [16ms]
+2024-10-09 11:12:51.362 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 11:15:13.531 [info] > git rev-parse --show-toplevel [5ms]
+2024-10-09 11:15:13.545 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2024-10-09 11:15:13.572 [info] [Model][openRepository] Opened repository: /home/robrewingco
+2024-10-09 11:15:13.603 [info] [Git][getRemotes] No remotes found in the git config file
+2024-10-09 11:15:13.604 [info] > git config --get commit.template [13ms]
+2024-10-09 11:15:13.606 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-10-09 11:15:13.607 [warning] [Git][getBranch] No such branch: master
+2024-10-09 11:15:13.643 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [14ms]
+2024-10-09 11:15:13.894 [info] > git show --textconv :web.html [7ms]
+2024-10-09 11:15:13.895 [info] > git ls-files --stage -- /home/robrewingco/web.html [2ms]
+2024-10-09 11:15:14.152 [info] > git check-ignore -v -z --stdin [2ms]
+2024-10-09 11:15:14.447 [info] > git status -z -uall [830ms] (cancelled)

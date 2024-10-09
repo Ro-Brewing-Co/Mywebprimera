@@ -1,0 +1,10 @@
+2024-10-09 11:00:12.785 [info] El experimento \"pythonRecommendTensorboardExt\" está activo
+2024-10-09 11:00:12.785 [info] El experimento \"pythonTerminalEnvVarActivation\" está activo
+2024-10-09 11:00:12.785 [info] El experimento \"pythonTestAdapter\" está activo
+2024-10-09 11:00:12.785 [warning] Dir "/home/robrewingco/.pixi/envs" is not watchable (directory does not exist)
+2024-10-09 11:00:12.985 [info] Default formatter is set to null for workspace /home/robrewingco
+2024-10-09 11:00:14.767 [info] Ruta de acceso del intérprete de Python: /bin/python3
+2024-10-09 11:00:17.434 [info] > pyenv which python
+2024-10-09 11:00:17.434 [info] cwd: .
+2024-10-09 11:00:18.537 [info] > pixi --version
+2024-10-09 11:00:20.592 [info] Iniciando el servidor de lenguaje Pylance.

@@ -1,0 +1,12 @@
+2024-10-07 18:45:47.019 [info] El experimento \"pythonRecommendTensorboardExt\" está activo
+2024-10-07 18:45:47.019 [info] El experimento \"pythonTerminalEnvVarActivation\" está activo
+2024-10-07 18:45:47.019 [info] El experimento \"pythonTestAdapter\" está activo
+2024-10-07 18:45:47.019 [warning] Dir "/home/robrewingco/.pixi/envs" is not watchable (directory does not exist)
+2024-10-07 18:45:47.019 [info] Default formatter is set to null for workspace /home/robrewingco
+2024-10-07 18:45:49.024 [info] > pyenv which python
+2024-10-07 18:45:49.024 [info] cwd: .
+2024-10-07 18:45:51.235 [info] > pixi --version
+2024-10-07 18:45:52.169 [info] > /bin/python3 -I ./.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64/python_files/interpreterInfo.py
+2024-10-07 18:45:53.538 [info] Ruta de acceso del intérprete de Python: /bin/python3
+2024-10-07 18:45:56.850 [info] Iniciando el servidor de lenguaje Pylance.
+2024-10-07 18:46:37.969 [info] Discover tests for workspace name: undefined - uri: c:/Users/user/AppData/Roaming/Code/User/settings.json

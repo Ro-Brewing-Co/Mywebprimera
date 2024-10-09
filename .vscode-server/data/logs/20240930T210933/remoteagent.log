@@ -1,0 +1,46 @@
+2024-09-30 21:09:33.646 [info] 
+
+
+
+
+2024-09-30 21:09:33.646 [info] Extension host agent started.
+2024-09-30 21:09:33.669 [info] Started initializing default profile extensions in extensions installation folder. file:///home/robrewingco/.vscode-server/extensions
+2024-09-30 21:09:33.698 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/robrewingco/.vscode-server/extensions
+2024-09-30 21:09:33.732 [info] [127.0.0.1][a0a927d9][ManagementConnection] New connection established.
+2024-09-30 21:09:33.812 [info] Installing extensions...
+2024-09-30 21:09:34.011 [info] [127.0.0.1][a166a5a1][ExtensionHostConnection] New connection established.
+2024-09-30 21:09:34.107 [info] [127.0.0.1][a166a5a1][ExtensionHostConnection] <660> Launched Extension Host Process.
+2024-09-30 21:09:35.379 [info] Installing extension 'ms-ceintl.vscode-language-pack-es'...
+2024-09-30 21:09:35.584 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2024-09-30 21:09:35.663 [info] Installing extension: ms-ceintl.vscode-language-pack-es {"isMachineScoped":true,"isBuiltin":false,"installGivenVersion":false,"isApplicationScoped":true,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/robrewingco/.vscode-server/extensions/extensions.json","external":"file:///home/robrewingco/.vscode-server/extensions/extensions.json","path":"/home/robrewingco/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"}}
+2024-09-30 21:09:39.056 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-es: Success. Executed: true. Duration: 2178ms.
+2024-09-30 21:09:39.235 [info] Extracted extension to file:///home/robrewingco/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.93.2024091109: ms-ceintl.vscode-language-pack-es
+2024-09-30 21:09:39.244 [info] Renamed to /home/robrewingco/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.93.2024091109
+2024-09-30 21:09:39.262 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2024-09-30 21:09:39.294 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es file:///home/robrewingco/.vscode-server/extensions/extensions.json
+2024-09-30 21:09:39.295 [info] Extension 'ms-ceintl.vscode-language-pack-es' v1.93.2024091109 was successfully installed.
+2024-09-30 21:10:18.223 [info] [127.0.0.1][a0a927d9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-30 21:10:18.306 [info] [127.0.0.1][a166a5a1][ExtensionHostConnection] <660> Extension Host Process exited with code: 0, signal: null.
+2024-09-30 21:10:21.072 [info] [127.0.0.1][4b674dd9][ManagementConnection] New connection established.
+2024-09-30 21:10:21.651 [info] [127.0.0.1][b9257f2b][ExtensionHostConnection] New connection established.
+2024-09-30 21:10:21.657 [info] [127.0.0.1][b9257f2b][ExtensionHostConnection] <896> Launched Extension Host Process.
+2024-09-30 21:10:47.418 [info] Getting Manifest... ms-python.python
+2024-09-30 21:10:47.763 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/robrewingco/.vscode-server/extensions/extensions.json","external":"file:///home/robrewingco/.vscode-server/extensions/extensions.json","path":"/home/robrewingco/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"}}
+2024-09-30 21:10:48.251 [info] Getting Manifest... ms-python.vscode-pylance
+2024-09-30 21:10:48.395 [info] Getting Manifest... ms-python.debugpy
+2024-09-30 21:10:48.488 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/robrewingco/.vscode-server/extensions/extensions.json","external":"file:///home/robrewingco/.vscode-server/extensions/extensions.json","path":"/home/robrewingco/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-09-30 21:10:48.489 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/robrewingco/.vscode-server/extensions/extensions.json","external":"file:///home/robrewingco/.vscode-server/extensions/extensions.json","path":"/home/robrewingco/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-09-30 21:10:53.974 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 1894ms.
+2024-09-30 21:10:57.284 [info] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 2273ms.
+2024-09-30 21:10:58.550 [info] Extracted extension to file:///home/robrewingco/.vscode-server/extensions/ms-python.debugpy-2024.10.0-linux-x64: ms-python.debugpy
+2024-09-30 21:10:58.563 [info] Renamed to /home/robrewingco/.vscode-server/extensions/ms-python.debugpy-2024.10.0-linux-x64
+2024-09-30 21:10:59.833 [info] Extracted extension to file:///home/robrewingco/.vscode-server/extensions/ms-python.python-2024.14.1-linux-x64: ms-python.python
+2024-09-30 21:10:59.889 [info] Renamed to /home/robrewingco/.vscode-server/extensions/ms-python.python-2024.14.1-linux-x64
+2024-09-30 21:11:05.769 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 3320ms.
+2024-09-30 21:11:18.986 [info] Extracted extension to file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2: ms-python.vscode-pylance
+2024-09-30 21:11:19.001 [info] Renamed to /home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2
+2024-09-30 21:11:19.029 [info] Extension installed successfully: ms-python.debugpy file:///home/robrewingco/.vscode-server/extensions/extensions.json
+2024-09-30 21:11:19.030 [info] Extension installed successfully: ms-python.python file:///home/robrewingco/.vscode-server/extensions/extensions.json
+2024-09-30 21:11:19.030 [info] Extension installed successfully: ms-python.vscode-pylance file:///home/robrewingco/.vscode-server/extensions/extensions.json
+2024-09-30 21:19:14.222 [info] [127.0.0.1][4b674dd9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-30 21:19:14.352 [info] [127.0.0.1][b9257f2b][ExtensionHostConnection] <896> Extension Host Process exited with code: 0, signal: null.

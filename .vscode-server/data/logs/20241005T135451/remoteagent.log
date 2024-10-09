@@ -1,0 +1,28 @@
+2024-10-05 13:54:51.864 [info] 
+
+
+
+
+2024-10-05 13:54:51.896 [info] Extension host agent started.
+2024-10-05 13:54:52.018 [info] [127.0.0.1][b31902a8][ManagementConnection] New connection established.
+2024-10-05 13:54:52.109 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:54:52.138 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:54:52.147 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-es /home/robrewingco/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.93.2024091109
+2024-10-05 13:54:52.440 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:54:53.000 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:54:53.012 [info] [127.0.0.1][5fdcf158][ExtensionHostConnection] New connection established.
+2024-10-05 13:54:53.024 [info] [127.0.0.1][5fdcf158][ExtensionHostConnection] <2631> Launched Extension Host Process.
+2024-10-05 13:54:53.808 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:54:54.231 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:54:54.541 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:54:54.907 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:54:55.195 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:54:55.331 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:54:55.401 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:54:55.524 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:54:56.062 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:54:56.217 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:54:56.545 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:55:09.203 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:55:09.661 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2024-10-05 13:55:09.705 [error] [/home/robrewingco/.vscode-server/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.

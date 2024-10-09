@@ -1,0 +1,21 @@
+2024-10-09 11:00:19.331 [info] (Client) Pylance async client (2024.10.1) started with python extension (2024.16.0)
+2024-10-09 11:00:20.544 [info] [Info  - 11:00:20 AM] (1025) Server root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-09 11:00:20.551 [info] [Info  - 11:00:20 AM] (1025) Pylance language server 2024.10.1 (pyright version 1.1.382, commit e46efc6b) starting
+2024-10-09 11:00:20.552 [info] [Info  - 11:00:20 AM] (1025) Starting service instance "robrewingco"
+2024-10-09 11:00:20.840 [info] [Info  - 11:00:20 AM] (1025) Setting environmentName for service "robrewingco": "3.10.12 (global)"
+2024-10-09 11:00:20.841 [info] [Info  - 11:00:20 AM] (1025) Setting pythonPath for service "robrewingco": "/bin/python3"
+2024-10-09 11:00:20.842 [info] [Info  - 11:00:20 AM] (1025) No include entries specified; assuming /home/robrewingco
+2024-10-09 11:00:20.844 [info] [Info  - 11:00:20 AM] (1025) Auto-excluding **/node_modules
+2024-10-09 11:00:20.845 [info] [Info  - 11:00:20 AM] (1025) Auto-excluding **/__pycache__
+2024-10-09 11:00:20.845 [info] [Info  - 11:00:20 AM] (1025) Auto-excluding **/.*
+2024-10-09 11:00:21.161 [info] [Info  - 11:00:21 AM] (1025) Assuming Python version 3.10.12.final.0
+2024-10-09 11:00:21.540 [info] [Info  - 11:00:21 AM] (1025) Found 2 source files
+2024-10-09 11:00:23.648 [info] [Info  - 11:00:23 AM] (1025) Background analysis(1) root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-09 11:00:23.664 [info] [Info  - 11:00:23 AM] (1025) Background analysis(1) started
+2024-10-09 11:00:24.291 [info] [Info  - 11:00:24 AM] (1025) Indexer background runner(2) root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist (index)
+2024-10-09 11:00:24.292 [info] [Info  - 11:00:24 AM] (1025) Indexing(2) started
+2024-10-09 11:00:26.459 [info] [Info  - 11:00:26 AM] (1025) scanned(2) 73 files over 1 exec env
+2024-10-09 11:00:31.001 [info] [Info  - 11:00:31 AM] (1025) [IDX(2)] Long operation: index execution environment file:///home/robrewingco (4091ms)
+2024-10-09 11:00:31.074 [info] [Info  - 11:00:31 AM] (1025) [IDX(2)] Long operation: index packages file:///home/robrewingco (4195ms)
+2024-10-09 11:00:31.075 [info] [Info  - 11:00:31 AM] (1025) indexed(2) 73 files over 1 exec env
+2024-10-09 11:00:31.187 [info] [Info  - 11:00:31 AM] (1025) Indexing finished(2).

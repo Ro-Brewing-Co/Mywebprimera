@@ -1,0 +1,49 @@
+Este código representa una implementación simple del juego clásico de "Batalla Naval" usando Python. A continuación te explico el funcionamiento de cada parte del código:
+
+1. Clase Ship:
+Esta clase define las propiedades y comportamiento básico de un barco en el juego.
+
+Método __init__: Se ejecuta cuando se crea una instancia de la clase. Recibe los parámetros name (nombre del barco) y size (tamaño del barco), inicializa las posiciones del barco en el tablero (self.positions = []) y el número de golpes (self.hits = 0).
+Método place_ship: Coloca el barco en el tablero. Toma una fila y columna inicial, la dirección ('H' para horizontal, 'V' para vertical) y el tablero de juego (board).
+Verifica que haya espacio suficiente en el tablero para el barco.
+Verifica que las posiciones donde se quiere colocar el barco estén vacías.
+Si todo es válido, asigna las posiciones al barco y actualiza el tablero con la primera letra del nombre del barco.
+Método hit: Se llama cuando el barco es atacado. Incrementa el contador de golpes y devuelve True si el barco ha sido hundido (es decir, si los golpes recibidos son iguales al tamaño del barco).
+2. Subclases Destroyer, Submarine, Battleship:
+Estas subclases heredan de Ship y representan diferentes tipos de barcos con diferentes tamaños.
+
+Destroyer: Barco de tamaño 2.
+Submarine: Barco de tamaño 3.
+Battleship: Barco de tamaño 4. Cada una usa el constructor de la clase padre (super().__init__) para establecer su nombre y tamaño.
+3. Clase Player:
+Representa a un jugador en el juego, que tiene un tablero donde coloca sus barcos y un registro de golpes.
+
+Método __init__: Crea un tablero de juego de 10x10 (lista de listas) y otro tablero para registrar los impactos (self.hits). También inicializa una lista de barcos (self.ships).
+Método place_ships: Le permite al jugador colocar sus barcos en el tablero.
+Usa las subclases Destroyer, Submarine y Battleship para crear los barcos.
+Pide al jugador las coordenadas iniciales y la dirección para colocar cada barco y verifica si la posición es válida. Si lo es, lo añade al tablero.
+Muestra el tablero después de colocar cada barco.
+Método print_board: Muestra el tablero del jugador en la consola.
+Método attack: Permite al jugador atacar una posición en el tablero del oponente.
+Verifica que la posición esté dentro de los límites y no haya sido atacada previamente.
+Si el ataque es en agua, marca la posición con 'A' (agua), si es un impacto, marca con 'T' (tocado) y verifica si se ha hundido un barco.
+Método all_ships_sunk: Verifica si todos los barcos del jugador han sido hundidos.
+4. Clase BattleshipGame:
+Controla el flujo del juego.
+
+Método __init__: Crea dos jugadores (player1 y player2).
+Método play: Ejecuta el juego.
+Los jugadores colocan sus barcos en el tablero.
+Alternan turnos atacando el tablero del oponente.
+Si un jugador hunde todos los barcos del oponente, se termina el juego y se declara al ganador.
+5. Crear una instancia del juego y jugar:
+python
+Copiar código
+game = BattleshipGame()
+game.play()
+Esto inicia una partida entre dos jugadores que colocan sus barcos y atacan por turnos hasta que uno gana.
+
+Resumen:
+El código simula el juego de Batalla Naval.
+Cada jugador coloca sus barcos y ataca el tablero del oponente.
+Gana quien hunda todos los barcos del oponente primero.

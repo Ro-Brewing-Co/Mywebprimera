@@ -1,0 +1,35 @@
+2024-10-05 13:51:10.072 [info] (Client) Pylance async client (2024.9.2) started with python extension (2024.14.1)
+2024-10-05 13:51:11.288 [info] [Info  - 1:51:11 PM] (992) Server root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-05 13:51:11.289 [info] [Info  - 1:51:11 PM] (992) Pylance language server 2024.9.2 (pyright version 1.1.378, commit ce64adc1) starting
+2024-10-05 13:51:11.290 [info] [Info  - 1:51:11 PM] (992) Starting service instance "robrewingco"
+2024-10-05 13:51:11.484 [info] [Info  - 1:51:11 PM] (992) Setting environmentName for service "robrewingco": "C:\Users\user\AppData\Local\Programs\Python\Python310\python.exe"
+2024-10-05 13:51:11.488 [info] [Info  - 1:51:11 PM] (992) No include entries specified; assuming /home/robrewingco
+2024-10-05 13:51:11.488 [info] [Info  - 1:51:11 PM] (992) Auto-excluding **/node_modules
+2024-10-05 13:51:11.489 [info] [Info  - 1:51:11 PM] (992) Auto-excluding **/__pycache__
+2024-10-05 13:51:11.490 [info] [Info  - 1:51:11 PM] (992) Auto-excluding **/.*
+2024-10-05 13:51:11.619 [info] [Info  - 1:51:11 PM] (992) Found 2 source files
+2024-10-05 13:51:12.184 [info] [Info  - 1:51:12 PM] (992) Background analysis(1) root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-05 13:51:12.187 [info] [Info  - 1:51:12 PM] (992) Background analysis(1) started
+2024-10-05 13:51:12.562 [info] [Info  - 1:51:12 PM] (992) Indexer background runner(2) root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist (index)
+2024-10-05 13:51:12.563 [info] [Info  - 1:51:12 PM] (992) Indexing(2) started
+2024-10-05 13:51:14.246 [info] [Info  - 1:51:14 PM] (992) scanned(2) 39 files over 1 exec env
+2024-10-05 13:51:14.691 [info] [Info  - 1:51:14 PM] (992) indexed(2) 17 files over 1 exec env
+2024-10-05 13:51:14.745 [info] [Info  - 1:51:14 PM] (992) Indexing finished(2).
+2024-10-05 13:53:32.752 [info] [Info  - 1:53:32 PM] Server process exited successfully
+2024-10-05 13:53:33.311 [info] (Client) Pylance async client (2024.9.2) started with python extension (2024.14.1)
+2024-10-05 13:53:33.889 [info] [Info  - 1:53:33 PM] (1471) Server root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-05 13:53:33.890 [info] [Info  - 1:53:33 PM] (1471) Pylance language server 2024.9.2 (pyright version 1.1.378, commit ce64adc1) starting
+2024-10-05 13:53:33.905 [info] [Info  - 1:53:33 PM] (1471) Starting service instance "robrewingco"
+2024-10-05 13:53:33.971 [info] [Info  - 1:53:33 PM] (1471) Setting environmentName for service "robrewingco": "C:\Users\user\AppData\Local\Programs\Python\Python310\python.exe"
+2024-10-05 13:53:33.973 [info] [Info  - 1:53:33 PM] (1471) No include entries specified; assuming /home/robrewingco
+2024-10-05 13:53:33.975 [info] [Info  - 1:53:33 PM] (1471) Auto-excluding **/node_modules
+2024-10-05 13:53:33.975 [info] [Info  - 1:53:33 PM] (1471) Auto-excluding **/__pycache__
+2024-10-05 13:53:33.975 [info] [Info  - 1:53:33 PM] (1471) Auto-excluding **/.*
+2024-10-05 13:53:34.089 [info] [Info  - 1:53:34 PM] (1471) Found 2 source files
+2024-10-05 13:53:34.618 [info] [Info  - 1:53:34 PM] (1471) Background analysis(1) root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-05 13:53:34.624 [info] [Info  - 1:53:34 PM] (1471) Background analysis(1) started
+2024-10-05 13:53:34.843 [info] [Info  - 1:53:34 PM] (1471) Indexer background runner(2) root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist (index)
+2024-10-05 13:53:34.844 [info] [Info  - 1:53:34 PM] (1471) Indexing(2) started
+2024-10-05 13:53:36.050 [info] [Info  - 1:53:36 PM] (1471) scanned(2) 39 files over 1 exec env
+2024-10-05 13:53:36.346 [info] [Info  - 1:53:36 PM] (1471) indexed(2) 17 files over 1 exec env
+2024-10-05 13:53:36.396 [info] [Info  - 1:53:36 PM] (1471) Indexing finished(2).

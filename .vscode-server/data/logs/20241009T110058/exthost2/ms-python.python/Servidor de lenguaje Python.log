@@ -1,0 +1,19 @@
+2024-10-09 11:01:41.520 [info] (Client) Pylance async client (2024.10.1) started with python extension (2024.16.0)
+2024-10-09 11:01:41.989 [info] [Info  - 11:01:41 AM] (1735) Server root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-09 11:01:41.991 [info] [Info  - 11:01:41 AM] (1735) Pylance language server 2024.10.1 (pyright version 1.1.382, commit e46efc6b) starting
+2024-10-09 11:01:41.991 [info] [Info  - 11:01:41 AM] (1735) Starting service instance "robrewingco"
+2024-10-09 11:01:42.166 [info] [Info  - 11:01:42 AM] (1735) Setting environmentName for service "robrewingco": "3.10.12 (global)"
+2024-10-09 11:01:42.168 [info] [Info  - 11:01:42 AM] (1735) Setting pythonPath for service "robrewingco": "/bin/python3"
+2024-10-09 11:01:42.169 [info] [Info  - 11:01:42 AM] (1735) No include entries specified; assuming /home/robrewingco
+2024-10-09 11:01:42.171 [info] [Info  - 11:01:42 AM] (1735) Auto-excluding **/node_modules
+2024-10-09 11:01:42.172 [info] [Info  - 11:01:42 AM] (1735) Auto-excluding **/__pycache__
+2024-10-09 11:01:42.172 [info] [Info  - 11:01:42 AM] (1735) Auto-excluding **/.*
+2024-10-09 11:01:42.233 [info] [Info  - 11:01:42 AM] (1735) Assuming Python version 3.10.12.final.0
+2024-10-09 11:01:42.452 [info] [Info  - 11:01:42 AM] (1735) Found 2 source files
+2024-10-09 11:01:43.817 [info] [Info  - 11:01:43 AM] (1735) Background analysis(1) root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-09 11:01:43.832 [info] [Info  - 11:01:43 AM] (1735) Background analysis(1) started
+2024-10-09 11:01:44.018 [info] [Info  - 11:01:44 AM] (1735) Indexer background runner(2) root directory: file:///home/robrewingco/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist (index)
+2024-10-09 11:01:44.019 [info] [Info  - 11:01:44 AM] (1735) Indexing(2) started
+2024-10-09 11:01:46.109 [info] [Info  - 11:01:46 AM] (1735) scanned(2) 73 files over 1 exec env
+2024-10-09 11:01:46.625 [info] [Info  - 11:01:46 AM] (1735) indexed(2) 73 files over 1 exec env
+2024-10-09 11:01:46.710 [info] [Info  - 11:01:46 AM] (1735) Indexing finished(2).
